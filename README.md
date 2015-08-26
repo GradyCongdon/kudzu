@@ -1,2 +1,2 @@
 # kudzu
-Like Ivy with more soverage
+Like Ivy with more coverage
